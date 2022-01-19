@@ -1,0 +1,21 @@
+traceroute to standaard.be (185.43.124.6), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  272.438µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  16.375643ms
+3   212.65.36.187 (212.65.36.187)  20.509501ms
+4   *
+5   dD5E0FA68.access.telenet.be. (213.224.250.104)  18.754472ms
+6   dD5E0F6CE.access.telenet.be. (213.224.246.206)  14.026518ms
+7   dd5e03b1d.static.telenet.be. (213.224.59.29)  14.570522ms
+8   *
+9   *
+10  *
+11  *
+12  *
+13  *
+14  ae3.intx-bru4.netarch.akamai.com. (2.17.199.241)  39.088866ms
+15  ae3.intx-bru4.netarch.akamai.com. (2.17.199.241)  107.015389ms
+16  ae3.intx-bru4.netarch.akamai.com. (2.17.199.241)  41.776838ms
+17  *
+18  *
+19  *
+20  *
