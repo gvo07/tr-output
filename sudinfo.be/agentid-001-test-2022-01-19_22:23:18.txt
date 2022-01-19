@@ -1,0 +1,7 @@
+traceroute to sudinfo.be (2.17.196.91), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  270.2µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  15.005642ms
+3   212.65.36.187 (212.65.36.187)  12.289754ms
+4   ae3.intx-bru4.netarch.akamai.com. (2.17.199.241)  20.034035ms
+5   a2-17-196-121.deploy.static.akamaitechnologies.com. (2.17.196.121)  11.927982ms
+
