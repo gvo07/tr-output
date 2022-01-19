@@ -1,0 +1,78 @@
+traceroute to www.whitehouse.gov (23.39.244.43), 65 hops max, 52 byte packets
+1   *
+2   192.168.254.1 (192.168.254.1)  11.547228ms
+3   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  11.774418ms
+4   212.65.36.187 (212.65.36.187)  14.716591ms
+5   81.52.186.121 (81.52.186.121)  18.846159ms
+6   hundredgige0-9-0-32.pastr4.paris.opentransit.net. (193.251.128.134)  18.40054ms
+7   193.251.132.34 (193.251.132.34)  40.118427ms
+8   bundle-ether308.auvtr5.aubervilliers.opentransit.net. (193.251.128.38)  23.372698ms
+9   akamai-2.gw.opentransit.net. (193.251.150.114)  23.697681ms
+10  *
+11  *
+12  *
+13  *
+14  *
+15  *
+16  *
+17  *
+18  *
+19  *
+20  *
+21  *
+22  *
+23  *
+24  *
+25  *
+26  *
+27  *
+28  *
+29  *
+30  *
+31  *
+32  *
+33  *
+34  *
+35  *
+36  *
+37  *
+Error: %!(EXTRA syscall.Errno=too many open files)traceroute to www.whitehouse.gov (104.69.23.209), 65 hops max, 52 byte packets
+1   *
+2   192.168.254.1 (192.168.254.1)  11.50623ms
+3   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  13.856176ms
+4   212.65.36.187 (212.65.36.187)  13.891937ms
+5   81.52.186.121 (81.52.186.121)  15.178558ms
+6   hundredgige0-7-0-12.pastr4.paris.opentransit.net. (193.251.131.73)  29.079289ms
+7   193.251.128.201 (193.251.128.201)  21.199738ms
+8   193.251.144.112 (193.251.144.112)  22.829196ms
+9   ae66.edge4.brussels1.level3.net. (213.19.195.193)  367.562091ms
+10  ae66.edge4.brussels1.level3.net. (213.19.195.193)  13.023789ms
+11  *
+12  *
+13  *
+14  *
+15  *
+16  *
+17  *
+18  *
+19  *
+20  *
+21  *
+22  *
+23  *
+24  *
+25  *
+26  *
+27  *
+28  *
+29  *
+30  *
+31  *
+32  *
+33  *
+34  *
+35  *
+36  *
+37  ae66.edge4.brussels1.level3.net. (213.19.195.193)  120.551784ms
+38  ae66.edge4.brussels1.level3.net. (213.19.195.193)  14.285851ms
+Error: %!(EXTRA syscall.Errno=too many open files)
