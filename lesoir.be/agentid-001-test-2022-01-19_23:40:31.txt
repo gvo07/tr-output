@@ -1,0 +1,7 @@
+traceroute to lesoir.be (2.17.196.115), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  262.496µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  9.727403ms
+3   212.65.36.187 (212.65.36.187)  25.888692ms
+4   ae3.intx-bru4.netarch.akamai.com. (2.17.199.241)  16.099697ms
+5   a2-17-196-114.deploy.static.akamaitechnologies.com. (2.17.196.114)  10.332151ms
+
