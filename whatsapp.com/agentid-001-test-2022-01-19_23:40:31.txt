@@ -1,0 +1,11 @@
+traceroute to whatsapp.com (157.240.27.54), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  278.589µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  11.110647ms
+3   212.65.36.187 (212.65.36.187)  9.624111ms
+4   ae66.edge4.Brussels1.Level3.net. (213.19.195.193)  10.562543ms
+5   ae-2-3204.edge4.Stockholm2.Level3.net. (4.69.135.162)  37.871749ms
+6   ae17.pr02.arn1.tfbnw.net. (157.240.81.218)  38.271947ms
+7   po106.psw02.arn2.tfbnw.net. (129.134.43.113)  40.183533ms
+8   157.240.38.143 (157.240.38.143)  38.126449ms
+9   whatsapp-cdn-shv-01-arn2.fbcdn.net. (31.13.72.52)  36.95878ms
+
