@@ -1,0 +1,14 @@
+traceroute to kbc.be (23.2.231.17), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  496.546µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  8.724165ms
+3   212.65.36.187 (212.65.36.187)  18.789099ms
+4   ae66.edge4.Brussels1.Level3.net. (213.19.195.193)  12.711514ms
+5   ae-1-3104.edge7.Amsterdam1.Level3.net. (4.69.162.177)  15.515996ms
+6   unknown.Level3.net. (212.72.47.190)  12.713939ms
+7   ae2.r02.ams01.icn.netarch.akamai.com. (23.210.55.40)  154.889576ms
+8   ae2.r02.ams03.ien.netarch.akamai.com. (23.197.69.41)  153.498048ms
+9   ae4.drt-ams2.netarch.akamai.com. (23.197.69.195)  16.652881ms
+10  *
+11  *
+12  *
+13  *
