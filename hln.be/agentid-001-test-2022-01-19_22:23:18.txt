@@ -1,0 +1,7 @@
+traceroute to hln.be (2.17.196.73), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  255.275µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  9.425462ms
+3   212.65.36.187 (212.65.36.187)  12.08188ms
+4   ae3.intx-bru4.netarch.akamai.com. (2.17.199.241)  172.915546ms
+5   a2-17-196-160.deploy.static.akamaitechnologies.com. (2.17.196.160)  11.300462ms
+
