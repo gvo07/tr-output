@@ -1,0 +1,17 @@
+traceroute to demorgen.be (2.17.196.171), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  257.681µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  11.03567ms
+3   212.65.36.187 (212.65.36.187)  12.24093ms
+4   ae66.edge4.Brussels1.Level3.net. (213.19.195.193)  11.615087ms
+5   ae-1-3104.edge7.Amsterdam1.Level3.net. (4.69.162.177)  14.099624ms
+6   sprint-level3-xe.losangeles9.Level3.net. (4.68.111.170)  15.376883ms
+7   if-ae-41-2.tcore1.av2-amsterdam.as6453.net. (195.219.194.26)  41.342812ms
+8   if-ae-6-5.tcore1.fnm-frankfurt.as6453.net. (195.219.194.227)  27.917919ms
+9   if-ae-12-60.tcore2.fnm-frankfurt.as6453.net. (195.219.156.133)  32.750921ms
+10  if-ae-59-2.tcore1.fr0-frankfurt.as6453.net. (195.219.87.195)  27.314132ms
+11  if-ae-55-2.tcore2.pvu-paris.as6453.net. (80.231.245.6)  27.196022ms
+12  if-ae-49-2.tcore1.pvu-paris.as6453.net. (80.231.153.20)  29.087013ms
+13  if-ae-32-2.thar1.b1d-brussels.as6453.net. (195.219.241.10)  30.814413ms
+14  195.219.227.11 (195.219.227.11)  36.409219ms
+15  a2-17-196-171.deploy.static.akamaitechnologies.com. (2.17.196.171)  31.515532ms
+
