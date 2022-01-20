@@ -1,0 +1,14 @@
+traceroute to yahoo.com (74.6.143.26), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  286.273µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  11.370635ms
+3   212.65.36.187 (212.65.36.187)  12.922869ms
+4   ae66.edge4.Brussels1.Level3.net. (213.19.195.193)  25.193026ms
+5   *
+6   YAHOO-INC.ear3.Seattle1.Level3.net. (4.16.168.186)  160.372379ms
+7   ae-10.pat2.gqb.yahoo.com. (209.191.65.51)  165.29243ms
+8   et-1-0-0.msr1.gq2.yahoo.com. (66.196.67.121)  165.504001ms
+9   et-19-1-0.clr1-a-gdc.gq2.yahoo.com. (98.136.158.201)  167.480229ms
+10  lo0.fab7-1-gdc.gq2.yahoo.com. (98.136.159.241)  162.117185ms
+11  usw2-1-lbc.gq2.yahoo.com. (98.136.158.193)  164.578793ms
+12  media-router-fp74.prod.media.vip.gq1.yahoo.com. (98.137.11.163)  164.365111ms
+

@@ -1,0 +1,7 @@
+traceroute to demorgen.be (2.17.196.90), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  204.775µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  11.148968ms
+3   212.65.36.187 (212.65.36.187)  15.786374ms
+4   *
+5   a2-17-196-80.deploy.static.akamaitechnologies.com. (2.17.196.80)  16.36779ms
+

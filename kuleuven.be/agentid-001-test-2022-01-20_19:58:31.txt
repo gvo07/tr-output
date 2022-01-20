@@ -1,0 +1,11 @@
+traceroute to kuleuven.be (134.58.64.15), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  246.515µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  13.755896ms
+3   212.65.36.187 (212.65.36.187)  23.26763ms
+4   bnix.brueve.belnet.net. (194.53.172.65)  13.937523ms
+5   10.28.52.197 (10.28.52.197)  12.018736ms
+6   kuleuven.r1.leuhev.belnet.net. (193.191.2.46)  13.422734ms
+7   vlan174.icts-p-nat-1.kulnet.kuleuven.be. (134.58.253.43)  11.852219ms
+8   vlan174.icts-p-cfw-1.kulnet.kuleuven.be. (134.58.253.41)  12.004088ms
+9   *
+10  *
