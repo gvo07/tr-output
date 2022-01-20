@@ -1,9 +1,9 @@
-traceroute to pinterest.com (151.101.0.84), 65 hops max, 52 byte packets
-1   192.168.254.1 (192.168.254.1)  256.828µs
-2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  10.451717ms
-3   212.65.36.187 (212.65.36.187)  35.639122ms
-4   ae66.edge4.Brussels1.Level3.net. (213.19.195.193)  13.514397ms
-5   *
+traceroute to microsoft.com (104.215.148.63), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  274.735µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  11.153983ms
+3   212.65.36.187 (212.65.36.187)  11.132798ms
+4   microsoft.bnix.net. (194.53.172.34)  11.212445ms
+5   ae23-0.icr01.par21.ntwk.msn.net. (104.44.41.110)  28.494019ms
 6   *
 7   *
 8   *
