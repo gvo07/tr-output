@@ -1,0 +1,17 @@
+traceroute to sudinfo.be (2.17.196.91), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  213.2µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  8.09023ms
+3   212.65.36.187 (212.65.36.187)  70.140376ms
+4   ae66.edge4.Brussels1.Level3.net. (213.19.195.193)  13.623819ms
+5   ae-1-3104.edge7.Amsterdam1.Level3.net. (4.69.162.177)  13.470988ms
+6   sprint-level3-xe.losangeles9.Level3.net. (4.68.111.170)  16.087647ms
+7   if-ae-41-2.tcore1.av2-amsterdam.as6453.net. (195.219.194.26)  30.238401ms
+8   if-ae-6-8.tcore1.fnm-frankfurt.as6453.net. (195.219.194.183)  31.185292ms
+9   if-ae-12-60.tcore2.fnm-frankfurt.as6453.net. (195.219.156.133)  28.982923ms
+10  if-ae-59-2.tcore1.fr0-frankfurt.as6453.net. (195.219.87.195)  26.962088ms
+11  if-ae-55-2.tcore2.pvu-paris.as6453.net. (80.231.245.6)  53.632958ms
+12  if-ae-49-2.tcore1.pvu-paris.as6453.net. (80.231.153.20)  29.783946ms
+13  if-ae-32-2.thar1.b1d-brussels.as6453.net. (195.219.241.10)  30.641709ms
+14  195.219.227.11 (195.219.227.11)  106.698759ms
+15  a2-17-196-121.deploy.static.akamaitechnologies.com. (2.17.196.121)  32.550602ms
+

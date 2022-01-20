@@ -1,0 +1,17 @@
+traceroute to hln.be (2.17.196.58), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  279.144µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  10.278125ms
+3   212.65.36.187 (212.65.36.187)  12.188466ms
+4   ae66.edge4.Brussels1.Level3.net. (213.19.195.193)  11.583994ms
+5   ae-1-3104.edge7.Amsterdam1.Level3.net. (4.69.162.177)  15.906263ms
+6   sprint-level3-xe.losangeles9.Level3.net. (4.68.111.170)  14.304749ms
+7   if-ae-41-2.tcore1.av2-amsterdam.as6453.net. (195.219.194.26)  32.247074ms
+8   if-ae-6-6.tcore1.fnm-frankfurt.as6453.net. (195.219.194.115)  42.524994ms
+9   if-ae-12-60.tcore2.fnm-frankfurt.as6453.net. (195.219.156.133)  28.396242ms
+10  if-ae-59-2.tcore1.fr0-frankfurt.as6453.net. (195.219.87.195)  29.979349ms
+11  if-ae-55-2.tcore2.pvu-paris.as6453.net. (80.231.245.6)  30.441656ms
+12  if-ae-49-2.tcore1.pvu-paris.as6453.net. (80.231.153.20)  29.143158ms
+13  if-ae-32-2.thar1.b1d-brussels.as6453.net. (195.219.241.10)  28.862588ms
+14  195.219.227.11 (195.219.227.11)  31.465733ms
+15  a2-17-196-59.deploy.static.akamaitechnologies.com. (2.17.196.59)  27.915472ms
+

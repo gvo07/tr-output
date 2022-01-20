@@ -1,0 +1,17 @@
+traceroute to lesoir.be (2.17.196.105), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  208.775µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  8.581475ms
+3   212.65.36.187 (212.65.36.187)  12.044316ms
+4   ae66.edge4.Brussels1.Level3.net. (213.19.195.193)  23.060295ms
+5   ae-1-3104.edge7.Amsterdam1.Level3.net. (4.69.162.177)  24.821677ms
+6   sprint-level3-xe.losangeles9.Level3.net. (4.68.111.170)  14.436709ms
+7   if-ae-41-2.tcore1.av2-amsterdam.as6453.net. (195.219.194.26)  28.854974ms
+8   if-ae-6-6.tcore1.fnm-frankfurt.as6453.net. (195.219.194.115)  29.982421ms
+9   if-ae-29-2.tcore2.fnm-frankfurt.as6453.net. (195.219.156.151)  28.96938ms
+10  if-ae-4-2.tcore1.fr0-frankfurt.as6453.net. (195.219.87.18)  26.87589ms
+11  if-ae-55-2.tcore2.pvu-paris.as6453.net. (80.231.245.6)  28.078596ms
+12  if-ae-49-2.tcore1.pvu-paris.as6453.net. (80.231.153.20)  28.086225ms
+13  if-ae-32-2.thar1.b1d-brussels.as6453.net. (195.219.241.10)  29.114692ms
+14  195.219.227.11 (195.219.227.11)  37.461578ms
+15  a2-17-196-105.deploy.static.akamaitechnologies.com. (2.17.196.105)  28.894176ms
+
