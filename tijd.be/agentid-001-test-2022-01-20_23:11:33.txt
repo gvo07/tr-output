@@ -1,0 +1,10 @@
+traceroute to tijd.be (2.22.147.114), 65 hops max, 52 byte packets
+1   192.168.254.1 (192.168.254.1)  256.03µs
+2   cust-2-64-110-94.dyn.as47377.net. (94.110.64.2)  10.448067ms
+3   212.65.36.187 (212.65.36.187)  14.397137ms
+4   ae66.edge4.Brussels1.Level3.net. (213.19.195.193)  11.048919ms
+5   ae-1-3111.edge7.Paris1.Level3.net. (4.69.133.234)  23.343506ms
+6   213.19.202.246 (213.19.202.246)  23.263749ms
+7   ae11.intx-par6.netarch.akamai.com. (23.210.53.155)  23.661774ms
+8   a2-22-147-114.deploy.static.akamaitechnologies.com. (2.22.147.114)  24.35431ms
+
